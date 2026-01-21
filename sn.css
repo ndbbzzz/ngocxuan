@@ -7,14 +7,14 @@
 
 body{
     min-height:100vh;
-    background: url("img/backgala.jpg") center / cover no-repeat fixed;
+    background: url("backgala.jpg") center / cover no-repeat fixed;
 }
 
 header{
     width:90%;
     height:70px;
     margin:20px auto;
-    background: url("img/back2.jpg") center / cover no-repeat fixed;
+    background: url("back2.jpg") center / cover no-repeat fixed;
     border-radius:50px;
     display:flex;
     align-items:center;
@@ -266,3 +266,4 @@ header{
 .star:nth-child(12){top:65%; left:70%;}
 
 .star:nth-child(13){top:15%; left:80%;}
+
